@@ -1,4 +1,4 @@
-#Simple Table Rates Shipping Method for WooCommerce
+# Simple Table Rates Shipping Method for WooCommerce
 
 A shipping method for WooCommerce that allows me to define an arbitrarily complex shipping rate algorithm for specific classes of products. Contains two components:
   1) Splits the WooCommerce cart Package into individual items - allows independent shipping calculations
